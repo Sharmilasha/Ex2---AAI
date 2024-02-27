@@ -1,5 +1,4 @@
-<H3>Enter Name</H3>
-<H3>Enter Register No.</H3>
+
 <H3>Experiment 2</H3>
 <H3>Date</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
@@ -19,6 +18,10 @@ Step 7: Print the results.<br>
 
 ## Program :
 ```
+Enter Name: sharmila A
+Enter Register No: 212221230094
+
+
 !pip install pgmpy
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
